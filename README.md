@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+**UI Credit**
+
+- Design by: Rendi Ramadana [link](https://www.uplabs.com/posts/coronavirus-information-concept)
+
+### Covid-19 App Final UI
+
+![App UI](/home-page.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
